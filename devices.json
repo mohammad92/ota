@@ -20,5 +20,17 @@
 
     "xiaomi/aries": "xiaomi/aries",
     "xiaomi/cancro": "xiaomi/cancro",
-    "xiaomi/libra": "xiaomi/libra"
+    "xiaomi/libra": "xiaomi/libra",
+
+    "samsung/klteuc": "samsung/klte",
+    "samsung/kltevl": "samsung/klte",
+    "samsung/kltespr": "samsung/klte",
+    "samsung/kltetmo": "samsung/klte",
+    "samsung/klteusc": "samsung/klte",
+    "samsung/kltevzw": "samsung/klte",
+    "samsung/klteub": "samsung/klte",
+    "samsung/kltedv": "samsung/klte",
+    "samsung/kltexx": "samsung/klte",
+    "samsung/klte": "samsung/klte"
+
 }
